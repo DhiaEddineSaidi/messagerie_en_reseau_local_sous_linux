@@ -156,7 +156,7 @@ a l'occasion de projet de fin d'Année pour les éléves ingenieurs informatique
 
 
 
--Si vous etes interéssé vous pouvez egalement contribuer à ce projet dans https://github.com/seichi/messaging-application
+-Si vous etes interéssé vous pouvez egalement contribuer à ce projet 
 
 
 
